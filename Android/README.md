@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk/interop-android
+	https://github.com/bhilanisdk
 
 *Run SDK Sample*
 
