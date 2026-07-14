@@ -1,0 +1,22 @@
+{
+  "name": "interoperability-sdk-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "module", 
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rustbyshabari/interoperability-wrapper-wasm": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.0.0"
+  }
+}
