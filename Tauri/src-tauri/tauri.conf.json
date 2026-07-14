@@ -1,0 +1,45 @@
+{
+  "$schema": "https://tauri.app",
+  "productName": "Interoperability SDK App",
+  "version": "0.1.0",
+  "identifier": "com.sdk.react.app",
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "devUrl": "http://localhost:3000", 
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../out"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Interoperability SDK",
+        "width": 1000,
+        "height": 800,
+        "resizable": true
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": "all",
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "externalBin": [],
+    "copyright": "",
+    "category": "DeveloperTool",
+    "shortDescription": "SDK Interoperability Tool",
+    "longDescription": "A cross-platform React application utilizing WASM for SDK interoperability.",
+    "android": {
+		"minSdkVersion": 24,
+		"versionCode": 1
+	  }
+  }
+}
