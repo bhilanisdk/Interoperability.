@@ -167,10 +167,10 @@
       }
 
 First time
-<img width="934" height="436" alt="scala1" src="https://github.com/user-attachments/assets/03c2c0e9-97e3-403a-b5a3-6804b3f7d737" />
+<img width="934" height="436" alt="scala1" src="https://github.com/bhilanisdk/media/blob/main/scala1.png" />
 Second time
-<img width="953" height="434" alt="scala2" src="https://github.com/user-attachments/assets/c34ab914-5dfe-413b-8c4d-6ce63078f49c" />
+<img width="953" height="434" alt="scala2" src="https://github.com/bhilanisdk/media/blob/main/scala2.png" />
 Third time
-<img width="922" height="440" alt="scala3" src="https://github.com/user-attachments/assets/68b674c7-2ffc-455e-999f-90347a4ae4ac" />
+<img width="922" height="440" alt="scala3" src="https://github.com/bhilanisdk/media/blob/main/scala3.png" />
 
 **🙏 Mata Shabari 🙏**
