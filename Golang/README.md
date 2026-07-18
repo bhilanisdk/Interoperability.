@@ -184,10 +184,10 @@
     }
 
 First time
-<img width="850" height="442" alt="golang1" src="https://github.com/user-attachments/assets/f00aad45-89df-4b11-9408-85ee4b4fcd04" />
+<img width="850" height="442" alt="golang1" src="https://github.com/bhilanisdk/media/blob/main/golang1.jpg" />
 Second time
-<img width="825" height="436" alt="golang2" src="https://github.com/user-attachments/assets/ac5211ce-2d79-41f9-b353-893cc4272c82" />
+<img width="825" height="436" alt="golang2" src="https://github.com/bhilanisdk/media/blob/main/golang2.jpg" />
 Third time
-<img width="929" height="443" alt="golang3" src="https://github.com/user-attachments/assets/88d2da0e-9c39-436c-9398-9c483f039b09" />
+<img width="929" height="443" alt="golang3" src="https://github.com/bhilanisdk/media/blob/main/golang3.jpg" />
 
 **🙏 Mata Shabari 🙏**
