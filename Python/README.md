@@ -172,10 +172,10 @@
         asyncio.run(main())
 
 First time
-<img width="877" height="440" alt="python1" src="https://github.com/user-attachments/assets/e226250c-9ffd-42f0-815c-eec97366dd91" />
+<img width="877" height="440" alt="python1" src="https://github.com/bhilanisdk/media/blob/main/python1.png" />
 Second time
-<img width="930" height="439" alt="python2" src="https://github.com/user-attachments/assets/3de4d743-1ac4-4ea8-a3ca-fb6c307ce426" />
+<img width="930" height="439" alt="python2" src="https://github.com/bhilanisdk/media/blob/main/python2.png" />
 Third time
-<img width="842" height="439" alt="python3" src="https://github.com/user-attachments/assets/4741a21e-71bf-4b7e-bd2b-74333b10c966" />
+<img width="842" height="439" alt="python3" src="https://github.com/bhilanisdk/media/blob/main/python3.png" />
 
 **🙏 Mata Shabari 🙏**
