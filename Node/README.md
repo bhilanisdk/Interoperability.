@@ -184,10 +184,10 @@
     main();
 
 First time
-<img width="887" height="435" alt="node1" src="https://github.com/user-attachments/assets/8187cc75-d83d-42fe-814c-5e29c23a2be7" />
+<img width="887" height="435" alt="node1" src="https://github.com/bhilanisdk/media/blob/main/node1.png" />
 Second time
-<img width="802" height="438" alt="node2" src="https://github.com/user-attachments/assets/52ab3338-2a47-4b02-a5d1-d5c2af71c56e" />
+<img width="802" height="438" alt="node2" src="https://github.com/bhilanisdk/media/blob/main/node2.png" />
 Third time
-<img width="905" height="435" alt="node3" src="https://github.com/user-attachments/assets/702f8851-52ae-4eda-adcb-7577e9a51e8a" />
+<img width="905" height="435" alt="node3" src="https://github.com/bhilanisdk/media/blob/main/node3.png" />
 
 **🙏 Mata Shabari 🙏**
