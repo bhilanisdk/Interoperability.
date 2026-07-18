@@ -210,10 +210,10 @@
         }
 
 First time
-<img width="882" height="466" alt="dotnet1" src="https://github.com/user-attachments/assets/0ed63ccb-8fc3-484f-91f7-6a12744077ca" />
+<img width="882" height="466" alt="dotnet1" src="https://github.com/bhilanisdk/media/blob/main/dotnet1.jpg" />
 Second time
-<img width="868" height="462" alt="dotnet2" src="https://github.com/user-attachments/assets/097a4737-6c78-45f9-a4ce-fd43f39b60d4" />
+<img width="868" height="462" alt="dotnet2" src="https://github.com/bhilanisdk/media/blob/main/dotnet2.jpg" />
 Third time
-<img width="850" height="465" alt="dotnet3" src="https://github.com/user-attachments/assets/2d10c056-a5f3-48c9-8979-57ec133ae3ba" />
+<img width="850" height="465" alt="dotnet3" src="https://github.com/bhilanisdk/media/blob/main/dotnet3.jpg" />
 
 **🙏 Mata Shabari 🙏**
