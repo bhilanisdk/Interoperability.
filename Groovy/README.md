@@ -138,12 +138,12 @@
       }
 
 First time
-<img width="1053" height="434" alt="groovy1" src="https://github.com/user-attachments/assets/2a2a46f3-8fc6-44fa-86c3-65b177a86148" />
+<img width="1053" height="434" alt="groovy1" src="https://github.com/bhilanisdk/media/blob/main/groovy1.png" />
 
 Second time
-<img width="1050" height="432" alt="groovy2" src="https://github.com/user-attachments/assets/d728e2c7-9718-4a5f-870d-13f7082784dd" />
+<img width="1050" height="432" alt="groovy2" src="https://github.com/bhilanisdk/media/blob/main/groovy2.png" />
 
 Third time
-<img width="1046" height="445" alt="groovy3" src="https://github.com/user-attachments/assets/0e049758-a8fa-4423-936a-384fcbcc9cb9" />
+<img width="1046" height="445" alt="groovy3" src="https://github.com/bhilanisdk/media/blob/main/groovy3.png" />
 
 **🙏 Mata Shabari 🙏**
