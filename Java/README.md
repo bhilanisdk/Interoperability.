@@ -187,12 +187,12 @@
     }
 
 Fist time
-<img width="967" height="447" alt="java1" src="https://github.com/user-attachments/assets/2782efdc-733d-4ece-b340-e42a8dac74b1" />
+<img width="967" height="447" alt="java1" src="https://github.com/bhilanisdk/media/blob/main/java1.png" />
 
 Second time
-<img width="942" height="438" alt="java2" src="https://github.com/user-attachments/assets/7042024b-2998-488a-9e11-819ad9e936af" />
+<img width="942" height="438" alt="java2" src="https://github.com/bhilanisdk/media/blob/main/java2.png" />
 
 Third time
-<img width="868" height="440" alt="java3" src="https://github.com/user-attachments/assets/2afd84a2-065b-4bc1-b827-8885a3d0e0a8" />
+<img width="868" height="440" alt="java3" src="https://github.com/bhilanisdk/media/blob/main/java3.png" />
 
 **🙏 Mata Shabari 🙏**
