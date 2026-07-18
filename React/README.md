@@ -62,9 +62,9 @@
     }
     
 Screenshot (Page 1)
-<img width="1920" height="1080" alt="react1" src="https://github.com/user-attachments/assets/7e7b9871-a403-4246-a0af-ab1da9cbc285" />
+<img width="1920" height="1080" alt="react1" src="https://github.com/bhilanisdk/media/blob/main/react1.png" />
 
 Screenshot (Page 4)
-<img width="1920" height="1080" alt="react2" src="https://github.com/user-attachments/assets/0fba8caa-a2fc-4fcc-a7e6-0c0b3464a291" />
+<img width="1920" height="1080" alt="react2" src="https://github.com/bhilanisdk/media/blob/main/react2.png" />
 
 **🙏 Mata Shabari 🙏**
