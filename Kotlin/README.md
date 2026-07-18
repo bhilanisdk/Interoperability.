@@ -223,10 +223,10 @@
     }
 
 First time
-<img width="885" height="444" alt="kotlin1" src="https://github.com/user-attachments/assets/1b13c4cc-7a60-4f7b-9e44-359bec8b08dd" />
+<img width="885" height="444" alt="kotlin1" src="https://github.com/bhilanisdk/media/blob/main/kotlin1.png" />
 Second time
-<img width="929" height="439" alt="kotlin2" src="https://github.com/user-attachments/assets/d3cc2811-154c-4f45-b9cc-576fa24f44ca" />
+<img width="929" height="439" alt="kotlin2" src="https://github.com/bhilanisdk/media/blob/main/kotlin2.png" />
 Third time
-<img width="923" height="441" alt="kotlin3" src="https://github.com/user-attachments/assets/5ff12a68-2e25-44f6-98a4-5955ad612522" />
+<img width="923" height="441" alt="kotlin3" src="https://github.com/bhilanisdk/media/blob/main/kotlin3.png" />
 
 **🙏 Mata Shabari 🙏**
